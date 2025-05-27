@@ -1,6 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww24620\viewh13220\viewkind0
-}
+import numpy as np
+import matplotlib.pyplot as plt
+
+print("This is a fake Python code snippet.")
+
+print("This code is meant to be a placeholder for testing purposes.")
